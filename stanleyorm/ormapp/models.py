@@ -7,4 +7,4 @@ class books_DB(models.Model):
     Doissued=models.DateField();
     reviews=models.CharField(max_length=20);
 class books_DBAdmin(admin.ModelAdmin):
-    list_display=("refno", "bookname", "email", "Doissued", "reviews");
+    list_display=("refno", "bookname", "email", "Doissued", "reviews")

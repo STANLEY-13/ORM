@@ -45,7 +45,7 @@ class books_DBAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![Screenshot 2024-03-05 204038](https://github.com/STANLEY-13/ORM/assets/148198816/22fa730f-6a42-4a30-b4a1-25a0e7459a6f)
+
 
 
 ## RESULT
